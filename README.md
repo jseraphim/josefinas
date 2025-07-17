@@ -21,6 +21,6 @@ Design and code is completely written by WrapPixel design and development team.
 ## License
 
  - Design and Code is Copyright &copy; [WrapPixel](https://www.wrappixel.com/)
- - Licensed cover under [MIT]
+ - Licensed cover under [MIT] 
  - Distributed by [ThemeWagon](https://themewagon.com)
 
