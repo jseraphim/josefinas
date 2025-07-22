@@ -4,7 +4,7 @@
  - [Demo](https://themewagon.github.io/Studiova/)
 
 #### Download
- - [Download from ThemeWagon]()
+ - [Download from ThemeWagon](https://themewagon.com/themes/studiova/)
 
 ## Getting Started
 
