@@ -302,6 +302,11 @@ ul ol {
   margin-bottom: 0;
 }
 
+.quadrados {
+  list-style-type: square !important;
+  padding-left: 1em;
+}
+
 dt {
   font-weight: 700;
 }
