@@ -48,13 +48,13 @@
 --------------------------------------------------------------*/
 
 a {
-  color: var(--accent-color);
+  color: var(--bs-primary);
   text-decoration: none;
   transition: 0.3s;
 }
 
 a:hover {
-  color: color-mix(in srgb, var(--accent-color), transparent 25%);
+  color: color-mix(in srgb, var(--bs-primary), transparent 25%);
   text-decoration: none;
 }
 
@@ -105,7 +105,7 @@ h6 {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid var(--accent-color);
+  border: 3px solid var(--bs-primary);
   border-top-color: var(--surface-color);
   animation: php-email-form-loading 1s linear infinite;
 }
@@ -139,7 +139,7 @@ h6 {
 #preloader:after {
   content: "";
   position: absolute;
-  border: 4px solid var(--accent-color);
+  border: 4px solid var(--bs-primary);
   border-radius: 50%;
   animation: animate-preloader 2s cubic-bezier(0, 0.2, 0.8, 1) infinite;
 }
@@ -255,7 +255,7 @@ section,
   display: block;
   width: 50px;
   height: 3px;
-  background: var(--accent-color);
+  background: var(--bs-primary);
   left: 0;
   right: 0;
   bottom: 0;
@@ -314,7 +314,7 @@ section,
 
 .hero .btn-get-started {
   color: var(--bs-primary);
-  background: var(--accent-color);
+  background: var(--bs-primary);
   font-family: var(--heading-font);
   text-transform: uppercase;
   font-weight: 600;
@@ -328,7 +328,7 @@ section,
 }
 
 .hero .btn-get-started:hover {
-  background: color-mix(in srgb, var(--accent-color) 90%, white 20%);
+  background: color-mix(in srgb, var(--bs-primary) 90%, white 20%);
 }
 
 @media (max-width: 768px) {
@@ -368,7 +368,7 @@ section,
 
 .portfolio .portfolio-filters li:hover,
 .portfolio .portfolio-filters li.filter-active {
-  color: var(--accent-color);
+  color: var(--bs-primary);
   background-color: var(--bs-primary);
 }
 
@@ -430,7 +430,7 @@ section,
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover,
 .portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: var(--accent-color);
+  color: var(--bs-primary);
 }
 
 .portfolio .portfolio-item .portfolio-info .details-link {
@@ -463,7 +463,7 @@ section,
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: var(--accent-color);
+  background-color: var(--bs-primary);
 }
 
 .portfolio-details .portfolio-info {
