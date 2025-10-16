@@ -16564,7 +16564,7 @@ textarea.form-control-lg {
 }
 
 .marquee-tag {
-  width: 200px;
+  width: 100vh;
   transition: all 0.2s ease;
 }
 

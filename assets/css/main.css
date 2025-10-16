@@ -368,7 +368,7 @@ section,
 
 .portfolio .portfolio-filters li:hover,
 .portfolio .portfolio-filters li.filter-active {
-  color: var(--bs-primary);
+  color: var(--surface-color);
   background-color: var(--bs-primary);
 }
 
